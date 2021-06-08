@@ -1,3 +1,5 @@
+// sorry for the dumb unrelated c donut
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
